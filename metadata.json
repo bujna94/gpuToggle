@@ -1,0 +1,7 @@
+{
+  "uuid": "gpu-toggle@local",
+  "name": "GPU Toggle",
+  "description": "Toggle NVIDIA GPU kernel modules on/off from the GNOME top bar.",
+  "version": 1,
+  "shell-version": ["42", "42.0", "42.9"]
+}
